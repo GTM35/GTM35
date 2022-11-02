@@ -1,4 +1,14 @@
-### Olá seja bem vindo ao meu perfil!
+<h1> Bem vindo(a) ao meu perfil 😁</h1>
+
+<div>
+  <p>Me chamo Gustavo Teofilo, tenho 22 anos e atualmente estou estudando Desenvolvimento Web voltado para o Front-end.</p>
+  <p>Amo tecnologia e espero que meus projetos e repositórios possam contribuir em sua vida.</p>
+</div>
+
+<div>
+  <h2>Let's code 💻</h2>
+</h1>
+</div>
 
 <div>
   <a href="https://github.com/GTM35">
